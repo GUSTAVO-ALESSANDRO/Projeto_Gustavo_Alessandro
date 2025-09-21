@@ -14,7 +14,6 @@ public class B {
         this.B1 = B1;
     }
 
-
     public void setB2(float B2) {
         this.B2 = B2;
     }
@@ -25,5 +24,9 @@ public class B {
 
     public void MB2() {
         System.out.println("Método MB2 executado");
+    }
+
+    public void MB3() {
+        System.out.println("Método MB3 executado");
     }
 }
