@@ -24,8 +24,12 @@ public class D {
     public void MD2() {
         System.out.println("Método MD2 executado");
     }
-
+    
     public void MD3() {
         System.out.println("Método MD3 executado - Usuário 1");
+    }
+
+    public void MD4() {
+        System.out.println("Método MD4 executado - GitHub Web");
     }
 }
